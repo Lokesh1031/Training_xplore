@@ -1,0 +1,89 @@
+JavaScript
+----=----
+->JavaScript is scripting language as well as programming language
+->Js is Dynamically typed programming
+->Js having single call stack
+
+
+Uses
+----
+->using JavaScript we can build Dynamic web application 
+->using Js we can add functionalities to web pages
+->here we can achieve DOM(Document Object Model) functionalitiesus using that we manipulate HTML and CSS
+->we can fetch data from server(API's) and also send data to the server(API's)
+
+
+JavaScript Evolution
+--------------------
+1991
+mocha -> 1995 -> net scope(browser company)
+|
+live scripting
+|
+JavaScript
+|
+ECMA -> added new features -> relesed the first version -> ES1(ECMA scipt version) -> 1996
+|
+stable version -> ES6
+|
+present version -> ES16
+
+Implementaion of Js
+-------------------
+1.Inline JS
+2.Internal JS
+3.External JS
+
+
+Tokens
+------
+->tokens are the samllest units in the Js code 
+ Types:
+
+ 1.Identifiers
+    ->Identifiers are the names given to the code
+    -> In the place Identifiers we can't use keywords
+    ->ex: Variables name, class names, function names
+ 2.keywords
+    ->keywords are the predefined words which have its own meaning
+    ->In JS total 66 keywords 
+ 3.Literals
+ 4.Operators
+ 5.Separators
+    -> ex: . , , "  ",``,;,:,{},[],<>
+ 6.Comments
+    ->single line comments //
+    ->multi line comments /*
+
+
+Data Types
+----------
+->Data types represents the what type of data we are storing on that Variables
+
+Types  
+    ->1.primitive datatypes(Immutable)
+        ->number
+        ->String
+        ->boolean
+        ->null
+        ->undefined
+        ->Symbol
+        ->BigInt
+    ->2.Non primitive datatypes(mutable)
+        ->Arrays
+            ->Arrays are the linear datastructures used to store collection of homogeneous or heterogeneous data
+
+            In JS Arrays Declaration --  Arrays operation can be see in the Arrays.js file
+            ------------------------
+                1.literal Arrays
+
+        ->Objects
+        ->functions
+
+
+
+
+
+
+Assesment -- 15 browser names on their respective JS engine names
+depricated key words

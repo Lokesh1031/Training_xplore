@@ -1,0 +1,14 @@
+others
+-------
+    Ex: <div></div>, <p></p>, all list tags, Media tags, semantic tags
+
+2.unpaired tags / self clossing tags :
+--------------------------------------
+->Any tags having only openinng tags is called unpaired tags
+ex: <br>, <img>, <hr>, <col>, <input>, <meta>...etc.
+
+Img tag:
+-------
+-> <img> is the one of the media tag used to display umages on the web page
+Image 
+
