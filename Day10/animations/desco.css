@@ -1,0 +1,27 @@
+body{
+    height:100vh;
+    display:flex;
+    background-color: aqua;
+    justify-content:center;
+    align-items: center;
+    animation: desco 1s linear 2s infinite noraml;
+}
+@keyframes desco{
+   0%{
+    background-color: rgb(56, 157, 246);
+    }25%{
+        background-color:  aqua;
+    }50%{
+        background-color: rgb(10, 207, 85);
+   }
+   75%{
+        background-color:  rgb(255, 0, 106);
+    }100%{
+        background-color: rgb(214, 255, 9);
+   }
+
+}
+h2{
+    background-color: blue;
+    font-size:200px;
+}

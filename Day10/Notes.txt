@@ -1,0 +1,38 @@
+Animations
+----------
+->animation-name
+->animation-duration
+->animation-timing-function
+->animation-delay
+->animation-iteration-count
+->animation-direction
+
+Animation shorthand
+-------------------
+animation:myName 2s linear 3s infinite normal
+
+
+Media Queries
+-------------
+Help create a responsive website
+ @media(width:500px){
+    div{
+        background:pink;
+    }
+ }
+
+ @media(min-width:200px) and (min-width:200px){
+    div{
+        background-color:red;
+    }
+ }
+
+
+Positions
+---------
+static - default position (the top,bootm,left and z-index properties have no effect)
+relative -elelment is to itself
+absolute - position relative to its closest position ancestor
+fixed - positioned relative to browser
+sticky - positioned based on users scroll position
+

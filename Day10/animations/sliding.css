@@ -1,0 +1,10 @@
+.sliding{
+    animation: ball 1s linear 1s infinite alternate;
+}
+@keyframes ball{
+    form{
+        transform: translateX(-300px);
+    }to{
+        transform: translateX(30px);
+    }
+}
